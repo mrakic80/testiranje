@@ -6,4 +6,7 @@ test
 * Posts
 * Likes
 
+
 Sql upiti za bazu
+
+Super
