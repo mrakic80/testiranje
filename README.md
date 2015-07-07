@@ -5,3 +5,5 @@ test
 * Roles
 * Posts
 * Likes
+
+Sql upiti za bazu
