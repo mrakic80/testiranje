@@ -26,7 +26,4 @@ INSERT INTO Users
 VALUES
 ('Pera', 'passpera');
 
-INSERT INTO Users
-(username, password)
-VALUES
-('Jova', 'passjova');
+
