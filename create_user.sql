@@ -25,3 +25,8 @@ INSERT INTO Users
 (username, password)
 VALUES
 ('Pera', 'passpera');
+
+INSERT INTO Users
+(username, password)
+VALUES
+('Jova', 'passjova');
